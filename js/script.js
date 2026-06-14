@@ -295,7 +295,7 @@
         this.speedY = Math.random() * 0.5 + 0.2;
         this.speedX = (Math.random() - 0.5) * 0.3;
         this.opacity = Math.random() * 0.5 + 0.2;
-        this.color = Math.random() > 0.5 ? '232, 191, 203' : '215, 160, 178';
+        this.color = Math.random() > 0.5 ? '114, 47, 55' : '168, 90, 106';
       };
       this.reset();
       this.y = h + Math.random() * h;
